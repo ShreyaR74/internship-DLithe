@@ -1,0 +1,143 @@
+{"intents": [
+{"tag": "greeting", "patterns": ["hai ","hey there how are you","hey there whats up","Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"], "responses": ["Hello! ", "Good to see you again! ", "Hi there, how can I help? ", "Hello!. "," How may I help you? ", "Hey there!How may I be of assistance? "], "context_set": ""
+},{"tag": "goodbye", "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good
+day", "cya later", "I gotta go now", "I gotta rush now","bye"], "responses": ["Sad to see you go ", "Talk to you later", "Goodbye! ","goodbye
+till later "], "context_set": ""
+},{"tag": "assistance", "patterns": ["will you help me choose a career?", "I want to know more about
+commerce stream", "can you brief me about the opportunities after taking
+commerce ?", "What employment options are there in the commerce field?","will
+you help me choose a career"], "responses": ["Yes ofcourse ","I will definitely help you to choose a career in
+commerce stream ","I will be glad to help you "], "context_set": ""
+},
+{"tag": "courses", "patterns": ["what are the different courses that can be pursued after taking
+commerce?", "what are the different courses that i can take after commerce ", "what are the career opportunities in commerce feild ", "can u tell me more about
+the career opportunities in commerce field","what are the courses i can take after
+12th in commerce stream","different courses in commerce stream"], "responses": ["Commerce includes various domains like Finance, Auditing, Taxation, Accounting, etc. With the increasing opportunities in trade and commerce
+all around the world, this course offers great and lucrative opportunities. Some of
+the programmes that can be taken after commerce are Bachelor of Commerce
+(B.Com), Bachelor of Laws (LLB), Cost and Management Accountant (CMA), Chartered Accountancy (CA), Bachelor of Business Administration (BBA), Company
+Secretary (CS), Bachelor of Economics, Journalism and Mass Communication"," Commerce includes various domains like Finance, Auditing, Taxation, Accounting, etc. With the increasing opportunities in trade and commerce all around the world, this
+course offers great and lucrative opportunities. Some of the programmes that can be
+taken after commerce are Bachelor of Commerce (B.Com), Bachelor of Laws (LLB), Cost and Management Accountant (CMA), Chartered Accountancy (CA), Bachelor of
+Business Administration (BBA), Company Secretary (CS), Bachelor of Economics, Journalism and Mass Communication "], "context_set": ""
+},{"tag": "BCom", "patterns": ["can you tell me about B.Com", "can you tell me about Bachelor of
+Commerce ", "can you ellaborate about B.Com", "can you ellaborate about Bachelor
+of Commerce", "bcom","B.Com?"], "responses": ["It is a 3 year degree course that provides curricular knowledge
+on subjects like Accountancy, Statistics, Management, Human Resource, Computer, Economics, etc. This degree is the most customary course that students tend to
+choose after their class 12th completion. "], "context_set": ""
+},{"tag": "more_BCom", "patterns": ["can you tell me more about B.Com", "can you tell me more about
+Bachelor of Commerce ", "can you ellaborate more about B.Com", "can you
+ellaborate more about Bachelor of Commerce", "tell more about bcom","tell more
+about B.Com?","tell me more about bcom","tell me more about B.Com?"], "responses": ["B.Com is an undergraduate course offering a conceptual
+understanding in Accounting, Economics, Business Law, Taxation, Insurance and
+Management. B Com course year is a three-year-long undergraduate programme in
+the field of commerce. B Com opens the doors to career opportunities like Chartered
+Accountancy, Company Secretary, Cost and Work Accountancy, Insurance and
+Banking services. A background in commerce aids in setting the stage for a successful
+career. B.Com degree familiarises with the financial foundations of the company. Bachelor of Commerce degree also gives a solid foundation in core financial matters. Refer to this website for more details....https://collegedunia.com/courses/bachelor- of-commerce-bcom "],
+"context_set": ""
+},{"tag": "LLB", "patterns": ["can you tell me about LLB", "can you tell me about Bachelor of
+Laws ","can you tell about LLB", "can you tell about Bachelor of Laws ", "can you
+ellaborate about LLB","what is LLB?","LLB?"], "responses": ["LLB emerges as one of the options that present enormous scope
+for students ahead in their career. Governed by The Bar Council of India (BCI), an
+LLB degree offers students to be of influence as lawyers or advocates. This program
+entails the study of subjects like Family Law, Constitutional Law,Property Law, Company Law, Administrative Law, etc."], "context_set": ""
+},{"tag": "more_LLB", "patterns": ["can you tell me more about LLB", "can you tell me more about
+Bachelor of Laws ","can you tell more about LLB", "can you tell more about Bachelor
+of Laws ", "can you ellaborate more about LLB"], "responses": ["The full form of LLB is a bachelor of law. LLB is derived from
+Legum Baccalaureus. Candidates who have completed their graduation in any
+discipline are eligible to pursue three-year LLB, The five-year LLB is an integrated law
+program that can be pursued after intermediate.The course is offered by colleges
+that are approved by the Bar Council of India (BCI). Also note that to pursue law in
+India, the LLB degree holder also has to qualify in the All India Bar Examination (AIBE)
+conducted by the BCI.The three year Bachelor of Legislative Law typically is divided
+into six semesters, and students start with the basics of law before gradually moving
+into other subjects like constitutional law, family law, jurisprudence, IPC, CrPC, law of
+contracts. As part of the course, students also have to undertake internships and
+training programmes at law firms, corporate organisations and courts to further
+their knowledge and gain real-life experience of the legal profession.Refer to this
+website for more......https://collegedunia.com/courses/bachelor-of-laws-llb"], "context_set": ""
+},{"tag": "CA", "patterns": ["can you tell me about CA", "can you tell me more Chartered
+Accountancy ","can you tell about CA", "can you tell me about Chartered
+Accountancy ", "can you ellaborate more about CA", "can you ellaborate more about
+Chartered Accountancy", "what is CA?","CA?"], "responses": ["The Institute of Chartered Accountants of India administers the
+professional course for students having completed their class 12th in commerce.This
+professional course comprises various levels. "], "context_set": ""
+},{"tag": "more_CA", "patterns": ["can you tell me more about CA", "can you tell me more about
+Chartered Accountancy ","can you tell more about CA", "can you tell more about
+Chartered Accountancy ", "can you ellaborate more about CA", "can you ellaborate
+more about Chartered Accountancy"], "responses": ["CA or Chartered Accountancy is a professional certification
+course that focuses on the practice of taxation, accounting, auditing, financial
+assessment, strategy and budgeting, for an individual, business or an organisation. CA course is conducted by the ICAI. After the Chartered Accountancy course
+completion, aspirants can work in a company's taxation and financial sectors as
+consultants, auditors, financial managers, and more.to know more refer to this
+link...https://collegedunia.com/courses/chartered-accountant/how-to-become-a-ca
+"], "context_set": ""
+},{"tag": "BBA", "patterns": ["can you tell me about BBA", "can you tell me about Bachelor of
+Business Administration ", "can you ellaborate about BBA", "can you ellaborate
+about Bachelor of Business Administration ", "what is BBA?","BBA?"], "responses": ["It is a three-year undergraduate program where students obtain
+an education based on the principles of business and its administration.Business
+aspects and methodologies are taught from the very beginning, and students learn
+methods of corporate operations and laws in functionality. "], "context_set": ""
+},{"tag": "more_BBA", "patterns": ["can you tell me more about BBA", "can you tell me more about
+Bachelor of Business Administration ","can you tell more about BBA", "can you tell
+more about Bachelor of Business Administration ", "can you ellaborate more about
+BBA", "can you ellaborate more about Bachelor of Business Administration "], "responses": ["BBA is a three-year professional undergraduate course in
+Business Management. The course is open to students from all three streams i.e., Science, Arts, and Commerce. The BBA course offers knowledge and training in
+management and leadership skills to prepare them for managerial roles and
+entrepreneurship. There are about 4900 BBA colleges in India. Students who wish to
+make progress in their careers in the field of management can pursue the BBA
+course after completing Class 12. The course will help the students learn various
+aspects of business administration and management through classroom lectures and
+practical projects like internships. The course will acquaint the students with various
+aspects of business administration, marketing, etc.....refer this website for more
+information....https://www.shiksha.com/bba-bachelor-of-business-administration- chp"],"context_set": ""
+},{"tag": "CS", "patterns": ["can you tell me about CS", "can you tell me about Company
+Secretary ","can you tell about CS", "can you tell about Company Secretary ", "can
+you ellaborate about CS", "can you ellaborate about Company Secretary", "what is
+CS?","CS?"],
+"responses": ["The CS or Company Secretary course is under the administration
+of The Institute of Company Secretaries of India(ICSI). Students with an inclination
+towards theoretical courses in Law choose this course for a career option. It is one of
+the best courses after 12th commerce. "], "context_set": ""
+},{"tag": "more_CS", "patterns": ["can you tell me more about CS", "can you tell me more about
+Company Secretary ","can you tell more about CS", "can you tell more about
+Company Secretary ", "can you ellaborate more about CS", "can you ellaborate more
+about Company Secretary"], "responses": ["Company Secretary is a 3-year course that trains students to
+handle the legal aspects of a firm including tax returns and record keeping. The
+Company Secretary is directly involved in a company’s strategy, decision-making, and
+ensuring all the activities comply with legal, ethical and regulatory requirements. The
+Institute of Company Secretaries of India (ICSI) trains and regulates Company
+Secretaries in India under the Company Secretaries Act, of 1980. There are more
+than 65,000 members and around 2,50,000 students on the roll of ICSI. As per the
+new UGC guidelines, CS Exam is equivalent to a postgraduate degree. Students have
+the option to pursue higher studies in the field of research.refer this for more
+information...https://www.shiksha.com/accounting-commerce/company-secretary- chp"],"context_set": ""
+},{"tag": "CMA", "patterns": ["can you tell me about CMA", "can you tell me about Cost and
+Management Accountant ","can you tell about CMA", "can you tell about Cost and
+Management Accountant ", "can you ellaborate about CMA", "can you ellaborate
+about Cost and Management Accountant ", "what is CMA?","CMA?"], "responses": ["Just like the CA course, this degree is a professional course
+offered by The Institute of Cost Accountants of India. Similar to CA and CS, the
+curriculum is a formation of different levels, for students to clear the rounds.same as
+CA and CS. CMA is one of the best career in commerce"], "context_set": ""
+},{"tag": "more_CMA", "patterns": ["can you tell me more about CMA", "can you tell me more about
+Cost and Management Accountant ","can you tell more about CMA", "can you tell
+more about Cost and Management Accountant ", "can you ellaborate more about
+CMA", "can you ellaborate more about Cost and Management Accountant "], "responses": ["CMA or Cost Management Accounting, is a three-year certificate
+programme that focuses on financial understanding to ensure that organisations are
+proficient and profitable with meaningful financial data and analysis. The main aim
+of the CMA course is to prepare students for working in various enterprises and
+corporate capacities to deal with various management and financial related
+problems.refer this website for more
+information...https://collegedunia.com/courses/certified-management-accountant- cma "], "context_set": ""
+},{"tag": "CA ENTRANCE", "patterns": ["What is CA exam","can you tell me more about CA entrance
+exam", "what is ca entrance exam", "how is CA entrance exam conducted"], "responses": ["To become a CA or Chartered Accountant, students must pursue
+CA Course which is divided into three levels. CA Foundation Course, CA Intermediate
+Course, and CA Final Course are the three broad classifications of the course, that a
+candidate can pursue anytime after completing class 12th in any discipline to
+become a Chartered Accountant. "], "context_set": ""
+},{ "tag": "thanks", "patterns": ["Thanks", "okay","Thank you","thankyou", "That's helpful", "Awesome, thanks", "Thanks for helping me", "wow", "great"], "responses": ["Happy to help!", "Any time!","you're welcome", "My
+pleasure"], "context_set": ""
+}
+]
+}
